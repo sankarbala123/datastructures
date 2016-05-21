@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="05cd8461-0b9b-4694-baeb-41dca9be27ac" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/array/TwoSum/TwoSum.java" afterPath="$PROJECT_DIR$/src/com/array/TwoSum/TwoSum.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/array/TwoSum/TwoSumApp.java" afterPath="$PROJECT_DIR$/src/com/array/TwoSum/TwoSumApp.java" />
-    </list>
+    <list default="true" id="05cd8461-0b9b-4694-baeb-41dca9be27ac" name="Default" comment="" />
     <ignored path="datastructures.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -687,12 +682,12 @@
       <option name="presentableId" value="Default" />
       <updated>1462664781977</updated>
       <workItem from="1462664783996" duration="124000" />
-      <workItem from="1462664919070" duration="4250000" />
+      <workItem from="1462664919070" duration="4331000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4374000" />
+    <option name="totallyTimeSpent" value="4455000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
